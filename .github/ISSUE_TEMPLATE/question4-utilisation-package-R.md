@@ -1,5 +1,5 @@
 ---
-name: Effet de calendrier et régresseurs CJO
+name: Packages R et GUI JDemetra+
 about: Poser une question
 title: "[Question]"
 labels: ''

@@ -1,5 +1,5 @@
 ---
-name: Pré-ajustement et modèle REG-ARIMA
+name: Révisions, options de rafraichissement et bilan qualité
 about: Poser une question
 title: "[Question]"
 labels: ''

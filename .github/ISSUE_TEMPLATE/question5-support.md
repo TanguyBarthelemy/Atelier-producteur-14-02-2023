@@ -1,5 +1,5 @@
 ---
-name: Révisions et options de rafraichissement
+name: Support de l'atelier
 about: Poser une question
 title: "[Question]"
 labels: ''

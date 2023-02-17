@@ -1,5 +1,5 @@
 ---
-name: Logiciel JDemetra+
+name: Installation des outils
 about: Poser une question
 title: "[Question]"
 labels: ''
