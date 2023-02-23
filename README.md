@@ -1,9 +1,19 @@
-# Atelier producteur du 14-02-2023
+# Passage des chaînes de productions de SAS à R
 
-Premier atelier producteur de CVS
-Thème : Passage de SAS à R
+*Premier atelier producteur de CVS - 14/02/2023*
 
-## Présentation et installation
+
+## 👉 Contenu
+
+Vous trouverez dans ce répertoires les supports présentés lors de l'atelier. Ils sont aussi disponibles sur Symphonie.
+
+- le dossier `Slides` : les slides de présentation
+- le dossier `R` : les codes R
+- le dossier `Biblio` : les articles de bibliographie
+
+
+## 📊 Présentation et installation
+
 Voici les supports, codes et data utilisés pour la formation. Pour obtenir ces documents :
     
 - Soit vous les téléchargez avec en .zip avec le bouton `Code` puis `Download ZIP` et les dézippez dans un dossier sur votre ordinateur
@@ -25,6 +35,16 @@ install.packages(c("RJDemetra", "rjwsacruncher", "rjdmarkdown", "ggdemetra",
 remotes::install_github("InseeFrLab/rjdworkspace")
 remotes::install_github("InseeFr/JDCruncheR")
 ```
+
+## 🎥 Vidéo
+
+La vidéo de l'atelier est disponible sur Youtube à l'adresse suivante : https://www.youtube.com/watch?v=mCu5G3hTlX4.
+La vidéo est disponible sur Symphonie.
+
+Vous pouvez aussi cliquer sur la miniature ci-dessous :
+
+[<img src="https://github.com/TanguyBarthelemy/Atelier-producteur-14-02-2023/blob/main/img/miniature.png?raw=true" alt="Atelier producteur" width="500"/>](https://www.youtube.com/watch?v=mCu5G3hTlX4 "Atelier producteur")
+
 
 ## 🙋 Comment poser une question ?
 
@@ -52,11 +72,15 @@ Pour compléter une issue, il suffit de :
 
 ![plot](https://github.com/TanguyBarthelemy/Atelier-producteur-14-02-2023/blob/main/img/complete_issue.png?raw=true)
 
+
 ## 🌐 Réseaux
 
 Retrouvez nous sur
-- 👨‍💻 GitHub
-- 🏢 Symphonie
+- 🖥️ GitHub Tanguy : https://github.com/TanguyBarthelemy
+- 👨‍💻 GitHub Anna : https://github.com/annasmyk
+- 🏢 Symphonie (intranet Insee)
 - ▶️ [Youtube](https://www.youtube.com/@TSwithJDemetraandR)
+- 📚 Biblio : https://jdemetra-new-documentation.netlify.app/
+- 📝 Blog : https://jdemetra-universe-blog.netlify.app/
 
 Voilà et merci !
