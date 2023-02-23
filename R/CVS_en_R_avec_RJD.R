@@ -235,7 +235,7 @@ spec_3 <- x13_spec(spec = spec_1, automdl.enabled = FALSE,
                    arima.p = 1, arima.q = 1, 
                    arima.bp = 0, arima.bq = 1, 
                    arima.coefEnabled = TRUE, 
-                   arima.coef = c(-0.8, -0.6, 0), # 0 stands for not fixed 
+                   arima.coef = c(-.8, -.6, 0), # 0 stands for not fixed 
                    arima.coefType = c(rep("Fixed", 2), "Undefined"))
 
 
@@ -401,12 +401,12 @@ enhanced_plot <- ipi_RF2740_plot +
     geom_outlier(geom = "label_repel", 
                  vjust = 4, 
                  ylim = c(NA, 65), force = 10, 
-                 arrow = arrow(length = unit(0.03, "npc"), 
+                 arrow = arrow(length = unit(.03, "npc"), 
                                type = "closed", ends = "last")) + 
     # Ajout du modèle Arima
     geom_arima(geom = "label", 
                x_arima = -Inf, y_arima = -Inf, 
-               vjust = -1, hjust = -0.1, 
+               vjust = -1, hjust = -.1, 
                message = FALSE)
 
 enhanced_plot
